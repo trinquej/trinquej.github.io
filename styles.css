@@ -13,17 +13,12 @@ header {
 
 nav {
   display: flex;
-  align-items: center;          /* vertically center items */
-  justify-content: space-between; /* logo left, links right */
-  padding: 1rem 5%;
-}
-
-nav {
-  display: flex;
   align-items: center;
   justify-content: center; /* everything centered by default */
   gap: 5rem;               /* space between logo and links */
+/*  padding: 1rem 5%;     */ /* I Honestly think it looks better with this line commented out */
 }
+
 
 
 nav .logo {
