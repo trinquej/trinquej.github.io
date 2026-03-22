@@ -138,6 +138,9 @@ h2 {
   transition: all 0.3s;
 }
 
+.card ul {
+    padding:0;
+}
 
 .card p {
   font-weight: normal;      /* paragraph readable */
